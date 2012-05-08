@@ -1,0 +1,12 @@
+Pesan Anda ( x10.087887312079.2556 ) sudah kami terima. Tunggu diproses
+ID 11060 Produk x10 TDK TERDAFTAR.  XL=XL S/SN=Simp AS/ASN=AS i=Indosat ST=*One FX=Flexi SF=SmartFrenHepi AX=Axis E=Esia TR=Three PLN=PLN
+
+ID 11060 Format SMS Salah. Mohon diperiksa ulang atau hubungi Customer Service Kami.
+
+
+http://gskinner.com/RegExr/
+(Trx)( )(?:[a-z]?[a-z]?[a-z])(?:[0-1]?[0-1]?[0-1]?[0-1])(.)(\d+)(.*?SN:)(.*?hrg:)(.*?dep:)(.*? )(.*)
+Trx xl10.087887312079 BERHASIL SN:12050548477071. hrg:10,250 Dep:447,000  SMS CENTER AS BARU: 085234069000. CENTER AS 085232916000 AKAN OFF.  TRX LANCAR.  (J-TR
+
+
+http://txt2re.com/index-java.php3?s=Trx%20xl10.087887312079%20BERHASIL%20SN:12050548477071.%20hrg:10,250%20Dep:447,000%20%20SMS%20CENTER%20AS%20BARU:%20085234069000.%20CENTER%20AS%20085232916000%20AKAN%20OFF.%20%20TRX%20LANCAR.%20%20%28J-TR&-24&-50&26&-216&6&-51&-8&-52&-40&-284&3&13&41&220&45&212&88&215&23&64&44&18&-213&27&-25&-194&-217&-285&-54&20&-286&19&-214&17&-43&22&55&11&56&38&57&16&127&122
